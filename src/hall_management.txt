@@ -1,0 +1,3 @@
+001: Auditorium: big hall: 1000: unavailable: 300
+002: Banquet: medium hall: 300: unavailable: 100
+003: Meeting Room: for meetingzuh: 30: unavailable: 50
