@@ -122,8 +122,8 @@ The Auditorium Management System is a comprehensive tool designed to streamline 
 
 ## Contributors
 
-- [Devara Alandra Wicaksono](https://github.com/devaraalandra) (Lead Developer; Developed significant foundations for Login System, Customer, Admin, Manager, and Worker section)
-- [Gilang Eko Vinanda](https://github.com/Gjlang) (Senior Developer; Enhanced and implemented complex customer features)
+- [Devara Alandra Wicaksono](https://github.com/devaraalandra) (Lead Developer; *Developed significant foundations for Login System, Customer, Admin, Manager, and Worker section*)
+- [Gilang Eko Vinanda](https://github.com/Gjlang) (Senior Developer; *Enhanced and implemented complex customer features*)
 - Fernando Salim
 - Kobalen Khaniska Arasen
 
